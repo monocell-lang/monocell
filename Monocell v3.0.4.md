@@ -38,9 +38,6 @@ Language name:        Monocell
 Source extension:     .mcs
 Module extension:     .mcm
 Developed since:      May 2025
-
-```
-```
 Compiler:             cell
 Mascot:               slime
 
@@ -49,18 +46,9 @@ Mascot:               slime
 ### The Cell compiler  
 ```
 >> cell
-
-```
-```
 ----------------------
-
-```
-```
 Monocell programming language
 By ConFusion
-
-```
-```
 
 
 ```
